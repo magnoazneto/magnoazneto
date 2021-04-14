@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want to know about in nmy github!
 
 - Here are some stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoazneto&langs_count=5" />
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=magnoazneto&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+
 
 <br/> :email: &nbsp; Como entrar em contato comigo: 
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-MagnoAzevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnoazevedo/)](https://www.linkedin.com/in/magnoazevedo//) 
