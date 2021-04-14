@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working (from the anywhere!) at Zup Innovation as a Backend Developer.
+- 🔭 I’m currently working (from anywhere!) at Zup Innovation as a Backend Developer.
 - 🌱 I’m always learning some Kotlin and Java related sfuff.
 - 💬 Ask me about anything you want to know about in my repos!
 
