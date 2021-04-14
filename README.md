@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=magnoazneto&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 
 
-<br/> :email: &nbsp; Como entrar em contato comigo: 
+<br/> :email: &nbsp; Contact me: 
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-MagnoAzevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnoazevedo/)](https://www.linkedin.com/in/magnoazevedo//) 
