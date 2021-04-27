@@ -9,4 +9,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magnoazneto&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="magnoazneto stats" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magnoazneto&show_icons=true&theme=dark&locale=en" alt="magnoazneto" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magnoazneto&theme=dark" alt="magnoazneto" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magnoazneto&show_icons=true&theme=dark&locale=en&layout=compact" alt="magnoazneto" /></p>
