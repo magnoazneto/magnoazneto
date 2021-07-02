@@ -7,6 +7,6 @@
 <a href="https://linkedin.com/in/magnoazevedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="magnoazevedo" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magnoazneto&show_icons=true&theme=dark&langs_count=8&layout=compact" alt="magnoazneto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magnoazneto&show_icons=true&theme=dark&langs_count=8&layout=compact&hide=python" alt="magnoazneto" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=magnoazneto&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="magnoazneto stats" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnoazneto" alt="magnoazneto" /></a> </p>
